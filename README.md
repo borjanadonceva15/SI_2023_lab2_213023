@@ -7,4 +7,5 @@
 Е=37, N=29, па следува дека 38-29+2=10.
 
 #Тест случаи според Every branch
-[SI2023Lab2-213023.xlsx](https://github.com/borjanadonceva15/SI_2023_lab2_213023/files/11578285/SI2023Lab2-213023.xlsx)
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/796862c4-699d-489f-ab71-b948717939be)
+
