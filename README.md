@@ -24,7 +24,7 @@
 Со четвртиот тест случај каде username=borjanadonceva, password=SI2023@lab2, и email=borjanadonceva15@gmail.com . Со овој ги поминуваме следните досега не поминати ребра: 10-11, 11-12, 12-13, 13-8.3, 22-23 и 23-25.
 
 5.Пети тест случај
-Потребен ни е уште еден тест случај за изминување на реброто 20-24, кое ќе го изминиме доколку password содржи празно место и нема да го исполнува условот if (!passwordLower.contains(" ")). Тоа го постигнува со тест случајот каде username=borjanadonceva, password=SIlab2 2023.
+Потребен ни е уште еден тест случај за изминување на реброто 20-24, кое ќе го изминиме доколку password содржи празно место и нема да го исполнува условот if (!passwordLower.contains(" ")). Тоа го постигнува со тест случајот каде username=borjanadonceva, password=SIlab2 2023 и email=borjanadonceva15@gmail.com.
         
 
 
