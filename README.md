@@ -54,6 +54,7 @@
 4. Доколку сите искази вратат false, условот не е исполнет и јазелот 2 се прескокнува. (1-3)
 
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/517ff29c-b7c1-45a3-bf36-5ae1759457d3)
+
 Тест 1
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/5779e37e-cab3-4571-9537-3952bfcd24e4)
 
