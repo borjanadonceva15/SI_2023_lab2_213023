@@ -9,6 +9,7 @@
 # Тест случаи според Every branch
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/3d85a448-5da7-416c-b66b-dd413079b258)
 
+На претходната слика е прикажана матрица на која се претсавени тестовите, соодветните ребра кои ги поминуваат, така што зелената боја ги прикажува гранките кои ги поминува соодветниот тест случај, а црвената боја гранките кои не ги поминува.
 1.Прв тест случај: 
 Во првиот тест случај, каде username=borjanadonceva, password=null и email=билоШто, се поминуваат гранките 1-2 и 2-25, бидејќи username=borjana.donceva, password=null и email=било што. Ќе влезе во условот if (user==null || user.getPassword()==null || user.getEmail()==null) бидејќи станува збор за логичкиот оператор и,  односно доволно е еден исказите да е точен за да влезе во условот и да фрли исклулок, во мојот случај тест случај тоа е исказот password=null . Кога ќе фрли исклучок завршува со функцијата и оди на последната линија од функцијата, односно на завршниот јазол 25.
 
@@ -28,19 +29,19 @@
 
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/865e6e96-7bdc-4031-b50f-abd0dac46589)
 
-# Тест 1
+ Тест 1
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/8a385bb7-5a3f-4a1a-ace2-87eb21827015)
 
-# Тест 2
+ Тест 2
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/3d8f41f4-0db2-4ba1-b416-73e0edfe97f0)
 
-# Тест 3
+ Тест 3
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/70effc68-32e1-4e36-8779-8f9ee6d1d52d)
 
-# Тест 4
+ Тест 4
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/6ec55098-62a7-43d8-98fa-5a50f19f1d90)
 
-# Тест 5
+ Тест 5
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/dfd06906-59a0-418a-865e-df608a103a83)
 
 
