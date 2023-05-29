@@ -26,6 +26,24 @@
 5.Пети тест случај: 
 Потребен ни е уште еден тест случај за изминување на реброто 20-24, кое ќе го изминиме доколку password содржи празно место и нема да го исполнува условот if (!passwordLower.contains(" ")). Тоа го постигнува со тест случајот каде username=borjanadonceva, password=SIlab2 2023 и email=borjanadonceva15@gmail.com.
 
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/865e6e96-7bdc-4031-b50f-abd0dac46589)
+
+#Тест 1
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/8a385bb7-5a3f-4a1a-ace2-87eb21827015)
+
+#Тест 2
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/3d8f41f4-0db2-4ba1-b416-73e0edfe97f0)
+
+#Тест 3
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/70effc68-32e1-4e36-8779-8f9ee6d1d52d)
+
+#Тест 4
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/6ec55098-62a7-43d8-98fa-5a50f19f1d90)
+
+#Тест 5
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/dfd06906-59a0-418a-865e-df608a103a83)
+
+
 #Тест случаи според критериумот Multiple Condition
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/c5f284d9-205c-4090-8a09-4fa57a3eaec4)
  
@@ -34,5 +52,16 @@
 3. Првиот исказ, user==null враќа false, па го проверува вториот исказ user.getPassword)==null кој исто така враќа false, па затоа го проверува и третиот исказ user.getEmail)==null, кој враќа true, значи услот е исполнет. (1-2)
 4. Доколку сите искази вратат false, условот не е исполнет и јазелот 2 се прескокнува. (1-3)
 
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/517ff29c-b7c1-45a3-bf36-5ae1759457d3)
+#Тест 1
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/5779e37e-cab3-4571-9537-3952bfcd24e4)
 
+#Тест 2
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/8d2aa73c-84d8-4f65-abb5-c5ecdde8c138)
+
+#Тест 3
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/704ce200-ebce-4b08-af29-f62d30f8fcf1)
+
+#Тест 4
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/ba2bf963-779d-4804-8646-555480233d46)
 
