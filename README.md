@@ -74,5 +74,6 @@
 
 Тест 4
 
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/ba2bf963-779d-4804-8646-555480233d46)
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/2cd69b59-1261-4d6e-904b-d7ff514b5e7c)
+
 
