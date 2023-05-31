@@ -27,28 +27,26 @@
 5.Пети тест случај: 
 Потребен ни е уште еден тест случај за изминување на реброто 20-24, кое ќе го изминиме доколку password содржи празно место и нема да го исполнува условот if (!passwordLower.contains(" ")). Тоа го постигнува со тест случајот каде username=borjanadonceva, password=SIlab2 2023 и email=borjanadonceva15@gmail.com.
 
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/865e6e96-7bdc-4031-b50f-abd0dac46589)
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/37584bb4-f34c-4f5a-b8b5-4ab526eeb997)
 
  Тест 1
- 
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/8a385bb7-5a3f-4a1a-ace2-87eb21827015)
+ ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/745e31cd-4317-43cc-8bd6-e515af483be0)
 
  Тест 2
  
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/3d8f41f4-0db2-4ba1-b416-73e0edfe97f0)
+ ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/ce936278-9653-4baa-9680-c5677bfb72e0)
 
  Тест 3
  
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/70effc68-32e1-4e36-8779-8f9ee6d1d52d)
+ ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/913bd206-1be8-4b29-aac8-4fa2915a5194)
 
  Тест 4
  
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/6ec55098-62a7-43d8-98fa-5a50f19f1d90)
+ ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/2d7186e4-e7f4-44ad-a145-ea8271205283)
 
  Тест 5
  
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/dfd06906-59a0-418a-865e-df608a103a83)
-
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/22d0d05b-93fa-4b15-a445-7864b2a5cf19)
 
 # Тест случаи според критериумот Multiple Condition
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/c5f284d9-205c-4090-8a09-4fa57a3eaec4)
@@ -58,22 +56,22 @@
 3. Првиот исказ, user==null враќа false, па го проверува вториот исказ user.getPassword)==null кој исто така враќа false, па затоа го проверува и третиот исказ user.getEmail)==null, кој враќа true, значи услот е исполнет. (1-2)
 4. Доколку сите искази вратат false, условот не е исполнет и јазелот 2 се прескокнува. (1-3)
 
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/517ff29c-b7c1-45a3-bf36-5ae1759457d3)
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/573c9183-1472-4a83-b306-48d772190bd8)
 
 Тест 1
 
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/5779e37e-cab3-4571-9537-3952bfcd24e4)
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/b78a8132-72ce-469d-bdc4-6c9f882a1e54)
 
 Тест 2
 
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/8d2aa73c-84d8-4f65-abb5-c5ecdde8c138)
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/fec87561-d171-4573-832d-b11a41af8e26)
 
 Тест 3
 
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/704ce200-ebce-4b08-af29-f62d30f8fcf1)
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/da4d1c82-7af0-4a74-878f-78d755ece1bc)
 
 Тест 4
 
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/2cd69b59-1261-4d6e-904b-d7ff514b5e7c)
+![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/924c59d7-d9b1-45d0-a763-e84d35d5f188)
 
 
