@@ -51,7 +51,8 @@
 ![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/22d0d05b-93fa-4b15-a445-7864b2a5cf19)
 
 # Тест случаи според критериумот Multiple Condition
-![image](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/c5f284d9-205c-4090-8a09-4fa57a3eaec4)
+
+![Screenshot 2023-05-29 003537](https://github.com/borjanadonceva15/SI_2023_lab2_213023/assets/101622176/e70a7ec5-2d4a-42fb-a0c8-ca10c8a51457)
  
 1. Првиот исказ, user==null, враќа true, бидејќи станува збор за операторот или, односно доволно е еден исказ да е точен во условот. Во овој случај е точен првиот исказ па другите нема потреба да ги проверува. (1-2)
 2. Првиот исказ, user==null враќа false, па сега затоа го проверува вториот исказ user.getPassword)==null што ќе врати true, значи условот е исполнет и нема потреба од проверување на третиор исказ. (1-2)
